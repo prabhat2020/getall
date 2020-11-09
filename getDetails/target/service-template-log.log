@@ -1,0 +1,11 @@
+[INFO ] 2020-11-08 22:16:56.032 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 15688 (E:\getDetails\getDetails\target\classes started by kprab in E:\getDetails\getDetails)
+[INFO ] 2020-11-08 22:16:56.069 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-08 22:17:49.643 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 54.865 seconds (JVM running for 61.253)
+[INFO ] 2020-11-08 22:19:19.414 [http-nio-8098-exec-2] BaseController - Inside Base Controller
+[INFO ] 2020-11-08 22:20:31.905 [http-nio-8098-exec-5] BaseController - Inside Base Controller
+[INFO ] 2020-11-08 22:21:46.356 [http-nio-8098-exec-6] BaseController - Inside Base Controller
+[INFO ] 2020-11-08 22:24:46.006 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 13924 (E:\getDetails\getDetails\target\classes started by kprab in E:\getDetails\getDetails)
+[INFO ] 2020-11-08 22:24:46.059 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-08 22:25:29.544 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 45.04 seconds (JVM running for 50.654)
+[INFO ] 2020-11-08 22:25:45.965 [http-nio-8098-exec-2] BaseController - Inside delivery Stream Controller
+[INFO ] 2020-11-08 22:26:04.016 [http-nio-8098-exec-4] BaseController - Inside logistic Controller
