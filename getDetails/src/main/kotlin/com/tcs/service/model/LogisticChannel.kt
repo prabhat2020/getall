@@ -8,8 +8,7 @@ data class LogisticChannel (
         val storeNumber: Long?,
         val startDate: String?,
         val deliveryStream: Int?,
+        val warehouseNumber: Int?,
         val endDate: String?,
-        val warehouseNumber: Int,
-        val id:String?,
-        val _rid:String
+        val id:String?
 )
